@@ -108,7 +108,7 @@
     <framework src="libstdc++.tbd" />
     <framework src="libz.tbd" />
     <!--QQ SDK version 3.2.3-->
-    <!--<framework src="src/ios/TencentOpenAPI.framework" custom="true" framework="true"/>-->
+    <framework src="src/ios/TencentOpenAPI.framework" custom="true" framework="true"/>
     <resource-file src="src/ios/TencentOpenApi_IOS_Bundle.bundle" />
 
     <info>
